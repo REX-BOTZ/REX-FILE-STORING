@@ -2,9 +2,6 @@
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 I Guess This Will Be Usefull For Many People.....😇. 
 
-##
-
-**If you need any more modes in repo or If you find out any bugs, mention in [@KOT_REPORS](https://www.telegram.dog/rex_bots_support)**
 
 ### Features
 - Fully customisable.
@@ -21,9 +18,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 #### Deploy on Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REX-BOTZ/REX-FILE-STORING)</br>
-
-**Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [KOT DEV](https://t.me/KOT_DEVELOPERS) AND ANY PROBLEM CONTACT : [KOT REPORTS](https://t.me/KOT_REPORS)**
 
 #### Deploy in your VPS
 ````bash
