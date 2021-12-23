@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>○ Creator : <a href='tg://user?id={OWNER_ID}'>This Person</a>\n○ Language : <code>Python3</code>\n○ Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio {__version__}</a>\n○ Source Code : <a href='https://github.com/KOT-BOTS-REPO/KOT-FILE-STORE-BOT'>Click here</a>\n○ Channel : @KOT_BOTS\n○ Support Group : @KOT_REPORS</b>",
+            text = f"<b>○ Creator : <a href='tg://user?id={OWNER_ID}'>This Person</a>\n○ Language : <code>Python3</code>\n○ Library : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio {__version__}</a>\n○ Source Code : <a href='https://github.com/REX-BOTZ/'>Click here</a>\n○ Channel : @REX_BOTZ\n○ Support Group : @REX_BOTS_SUPPORT</b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
