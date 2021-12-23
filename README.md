@@ -18,14 +18,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 ## Deploy On Heroku
 <p><a href="https://heroku.com/deploy?template=https://github.com/REX-BOTZ/REX-FILE-STORING"> <img src="https://img.shields.io/badge/Deploy%20on%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
-#### Deploy in your VPS
-````bash
-git clone https://github.com/KOT-BOTS-REPO/KOT-FILE-STORE-BOT
-cd File-Sharing-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-````
 
 ### Admin Commands
 
